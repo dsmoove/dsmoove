@@ -13,5 +13,8 @@ This project aims to create a model that will capture any observations on the fi
 
 ### [King County Housing Price Predictions](https://github.com/dsmoove/KingCountyHousing)
 
-I created a model that used the King County data set that predicted the housing prices in that region. The model generated 420 features via interactions and polynomial columns as well as some non-linear transformations of the square footage columns. In particular, I utilized geohashing to increase the spatial resolution beyond zipcode and create a more accurate prediction. 
+I created a model that used the King County data set that predicted the housing prices in that region.
 
+### [King County Housing Price Predictions](https://github.com/dsmoove/KingCountyHousing)
+
+My partner and I built a various modelsto prove that music can be classified by the time period they originate from by their musical attributes. New artist discovery through genre classification not only benefits users, but also artists and Spotify. Unknown artists benefit from more methods of discovery and Spotify potentially gains more revenue and more data. 
