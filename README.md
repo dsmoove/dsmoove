@@ -15,6 +15,6 @@ This project aims to create a model that will capture any observations on the fi
 
 I created a model that used the King County data set that predicted the housing prices in that region.
 
-### [King County Housing Price Predictions](https://github.com/dsmoove/KingCountyHousing)
+### [Spotify Song Era Classification](https://github.com/khyateed/song-classification-project)
 
-My partner and I built a various modelsto prove that music can be classified by the time period they originate from by their musical attributes. New artist discovery through genre classification not only benefits users, but also artists and Spotify. Unknown artists benefit from more methods of discovery and Spotify potentially gains more revenue and more data. 
+My partner and I built a various Multi-Classification models to prove that music can be classified by the time period they originate from by their musical attributes. New artist discovery through genre classification not only benefits users, but also artists and Spotify. Unknown artists benefit from more methods of discovery and Spotify potentially gains more revenue and more data. 
