@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**dsmoove/dsmoove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me. 
 
-Here are some ideas to get you started:
+I am a data scientist currently looking for work. I have a background in Supply Chain and a passion for learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+###  [Pigskin Playcaller](https://github.com/dsmoove/pigskinplaycaller)
+
+This project aims to create a model that will capture any observations on the field including game situations and offense, that will help to make a better decision on defensive side of the ball. The model looks at the positioning of the players on offense on the field and the different types personnel on the field (WR/TE/RB). Teams employ different offensive personnel breakdowns (WR/TE/RB). These positions will be explained in more detail later. The model also looks at the game situation of the down situation and the yards needed for a first down. The goal of this model is to address the issue of making decisions analytically and quickly by calculating the EPA of the next play and recommending the coverage that predicts the lowest EPA. EPA is short for Expected Points Added, which will be the target variable for our model.
+
+### [King County Housing Price Predictions](https://github.com/dsmoove/KingCountyHousing)
+
+I created a model that used the King County data set that predicted the housing prices in that region. The model generated 420 features via interactions and polynomial columns as well as some non-linear transformations of the square footage columns. In particular, I utilized geohashing to increase the spatial resolution beyond zipcode and create a more accurate prediction. 
+
