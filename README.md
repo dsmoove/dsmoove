@@ -13,8 +13,8 @@ This project aims to create a model that will capture any observations on the fi
 
 ### [King County Housing Price Predictions](https://github.com/dsmoove/KingCountyHousing)
 
-I created a model that used the King County data set that predicted the housing prices in that region.
+I created a model that used the King County data set that predicted the housing prices in that region. In specific, I built a linear regression model and looked to isolate the top variables that affect price while also generating additional features to better predict prices. Polynominal models were also generated in order to generate a model of better fit. The model has its shortcomings as there can be many factors that are missing from the dataset.
 
 ### [Spotify Song Era Classification](https://github.com/khyateed/song-classification-project)
 
-My partner and I built a various Multi-Classification models to prove that music can be classified by the time period they originate from by their musical attributes. New artist discovery through genre classification not only benefits users, but also artists and Spotify. Unknown artists benefit from more methods of discovery and Spotify potentially gains more revenue and more data. 
+My partner and I built a various Multi-Classification models (Logistic Regression, KNN, Decision Trees, Random Forest, and XGBoost) to prove that music can be classified by the time period they originate from by their musical attributes. New artist discovery through genre classification not only benefits users, but also artists and Spotify. Unknown artists benefit from more methods of discovery and Spotify potentially gains more revenue and more data. 
